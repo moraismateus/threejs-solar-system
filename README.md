@@ -1,6 +1,8 @@
 # Three.js Solar System
 
-Hey there! Welcome to my little corner of the GitHub universe where I've been playing around with Three.js to create a mini solar system. It's a neat visual representation using Vite and Three.js from npm. If you're into web graphics or just curious about simulating celestial bodies in the browser, you might find this interesting.
+Hey there! Welcome to my little corner of the GitHub universe where I've been playing around with Three.js to create a mini solar system. It's a neat visual representation using Vite and Three.js from npm. If you're into web graphics or just curious about simulating celestial bodies in the browser, you might find this interesting. 
+
+I just made it as a hobby, fell free to copy, modify or ask questions, I broswed for the textures, so also feel free to use them.
 
 ![threejs-solar-system-capture](https://github.com/moraismateus/threejs-solar-system/assets/58345161/f77549f3-010e-4b83-83bb-19cd62167798)
 

@@ -1,6 +1,6 @@
 // Import necessary modules and styles
 import './style.css';
-import * as THREE from 'three';
+import * as THREE from '../threejs-solar-system/node_modules/three/build/three.module.js';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
 
 // Setup the scene, camera, and renderer

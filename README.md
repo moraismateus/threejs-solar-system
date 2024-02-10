@@ -2,6 +2,9 @@
 
 Hey there! Welcome to my little corner of the GitHub universe where I've been playing around with Three.js to create a mini solar system. It's a neat visual representation using Vite and Three.js from npm. If you're into web graphics or just curious about simulating celestial bodies in the browser, you might find this interesting.
 
+![threejs-solar-system-capture](https://github.com/moraismateus/threejs-solar-system/assets/58345161/f77549f3-010e-4b83-83bb-19cd62167798)
+
+
 ## What's Inside?
 
 All the magic happens in a single script where we create a solar system complete with the sun, earth, and moon, all orbiting in the vast emptiness of space. The scene is set up with lighting that mimics the sun's glow and sprinkled with stars to give it that cosmic feel. And yes, you can zoom and rotate around to explore this mini universe, thanks to the `OrbitControls`.

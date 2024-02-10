@@ -1,7 +1,7 @@
 // Import necessary modules and styles
 import './style.css';
 import * as THREE from 'three';
-import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 
 // Setup the scene, camera, and renderer
 const scene = new THREE.Scene();

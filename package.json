@@ -2,6 +2,7 @@
   "name": "mateusthreejssolarsystem",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://moraismateus.github.io/threejs-solar-system/",
   "type": "module",
   "scripts": {
     "dev": "vite",
